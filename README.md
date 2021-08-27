@@ -7,6 +7,7 @@
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./solutions/75.%20Sort%20Colors.java)|2 ms|
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](./solutions/147.%20Insertion%20Sort%20List.java)|53 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|6 ms|
+|179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Java](./solutions/179.%20Largest%20Number.java)|6 ms|
 |225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](./solutions/225.%20Implement%20Stack%20using%20Queues.java)|0 ms|
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./solutions/232.%20Implement%20Queue%20using%20Stacks.java)|1 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./solutions/242.%20Valid%20Anagram.java)|6 ms|
